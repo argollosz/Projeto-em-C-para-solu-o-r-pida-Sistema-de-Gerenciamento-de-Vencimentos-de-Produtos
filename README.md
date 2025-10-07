@@ -2,10 +2,6 @@
 Este código, embora simples, demonstra de forma eficaz a habilidade de estruturar um problema real em um situação onde separa objetos, responsabilidades, protegendo dados e implementando lógicas de negócio e de permissão de forma clara e organizada.
 
 
-namespace Sistema_de_Gerenciamento_de_Vencimentos_de_Produtos
-{
-    using System;
-    using System.Collections.Generic;
 
     public class Produto
     {
